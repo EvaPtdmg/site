@@ -1,0 +1,101 @@
+---
+title: "CV"
+---
+
+## Current position
+
+**Maître Assistant** (Associate Professor), IMT Mines Albi, Centre Génie Industriel\
+Enseignante-chercheuse, axe Gestion des Opérations Logistiques (GOL)\
+2021 – Present
+
+<!-- PLACEHOLDER / À VALIDER: this CV's most recent publications (2023-2026) are heavily Physical Internet / rural mobility, but this document doesn't mention that shift. Confirm your title is still accurate and current before publishing. -->
+
+## Education
+
+::: {.timeline-entry}
+**PhD, Génie Industriel et Informatique**\
+Université de Toulouse, IMT Mines Albi, Centre Génie Industriel\
+2017 – 2020\
+Thesis: "Une démarche outillée de diagnostic organisationnel et d'amélioration à base de double numérique : Application aux centres d'appels de trois SAMU"\
+Supervisors: Matthieu Lauras, Franck Fontanili (IMT Mines Albi)\
+**Prix de la meilleure thèse 2020**, GdR MACS and the Automatique section of Club EEA
+:::
+
+::: {.timeline-entry}
+**Maîtrise Recherche ès Science**, Industrial Engineering and Applied Mathematics\
+École Polytechnique de Montréal, Canada\
+2015 – 2017\
+Research project: optimization of inter-hospital non-emergency patient transport\
+Supervisors: Prof. L.-M. Rousseau, Prof. N. Lahrichi (Polytechnique Montréal, Chaire HANALOG, GERAD, CIRRELT)
+:::
+
+::: {.timeline-entry}
+**Élève Ingénieur**, Génie Industriel, Processus et Systèmes d'Informations\
+IMT Mines Albi\
+2013 – 2016
+:::
+
+## Postdoctoral project
+
+**CallSamu** (2021): developing collaboration between SAMU emergency call centers at the regional scale (Pays de la Loire)\
+Partner institutions: IMT Mines Albi, CHU de Nantes, SAMU 44, SAMU 85, SAMU 53, SAMU 72\
+Keywords: emergency call centers, collaboration, modeling, discrete event simulation, process mining, data mining, model transformation, hospital systems
+
+## Selected projects (recent)
+
+<!-- From context shared in conversation, not this CV document; confirm before publishing -->
+
+- ECOTRAIN (ADEME / France 2030)
+- CAPIBARA (ANR JCJC)
+- FORCE / Airbus intralogistics
+- PATH (15-Minute City)
+
+## Networks and affiliations
+
+- IPIC, EULiST, ANR, ADEME, ALICE ETP <!-- from prior context, confirm -->
+- SAGIP (Société d'Automatique de Génie Industriel et de Productique)
+- GISEH (Gestion et Ingénierie des Systèmes Hospitaliers)
+
+## HDR
+
+Targeted for 2027. <!-- À VALIDER -->
+
+## Teaching
+
+2017 – 2020: 158 HETD, undergraduate and graduate level (L3, M1, M2), Génie Industriel\
+Courses: Gestion de Projet, Gestion de Production, Analyse des Systèmes, Modélisation de processus et simulation de flux à événements discrets, Optimisation Discrète, Outils Informatiques\
+Typical group size: 25 to 30 students per TD/CM group
+
+## Supervision
+
+- M1 internship, 2019 (4 months): packaging supply chain at a Chinese manufacturing company
+- M1 internship, 2020 (3 months): forecasting emergency department patient arrivals
+
+## Other professional experience
+
+**Assistant Engineer**, DRH, CHU de Toulouse, April – August 2015\
+Process formalization for ISO 9001 certification, deployment of a Talentsoft recruitment/mobility tool, compilation of the 2014 Bilan Social, field visits in cardiology departments to identify IT needs.
+
+## Languages and tools
+
+English (C1), German (B2), French (native)\
+Programming: Python, Java, C++\
+Scientific tools: Matlab, NumPy, SciPy, R, Witness, FlexSim\
+LaTeX
+
+## Science communication
+
+- 2018: Ma Thèse en 180 secondes, regional final, Université de Toulouse
+- 2017–2019: Nuit Européenne des Chercheurs (Albi and Toulouse), participant and organizer
+- 2019: Ma Thèse sur Un Mur, collaboration between researchers and an artist
+- 2018–2020: Pint of Science, organizer (2018, Toulouse) and local coordinator (2019, Albi)
+- 2019–present: Comédienne, Science Comedy Show, writing and performing science-themed sketches and street theatre
+- 2020–2021: Co-founder and admin of a 1200-member francophone PhD student community (Discord), formed against isolation during the Covid-19 pandemic
+
+## Research interests beyond current focus
+
+Simulation methods, Operations Research, Hospital systems, Humanitarian logistics
+
+## Personal interests
+
+Théâtre, sewing, Lindy Hop, climbing

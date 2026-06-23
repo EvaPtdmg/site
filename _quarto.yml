@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Eva Petitdemange"
+  site-url: "https://REPLACE-WITH-YOUR-DOMAIN" # PLACEHOLDER: your final URL (e.g. GitHub Pages or IMT Mines Albi address)
+  description: "Associate Professor, Centre Génie Industriel, IMT Mines Albi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: publications.qmd
+        text: Publications
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: envelope
+        href: "mailto:eva.petitdemange@mines-albi.fr"
+      - icon: linkedin
+        href: "https://www.linkedin.com/REPLACE" # PLACEHOLDER, remove this line if you don't want it shown
+  page-footer:
+    center: "© REPLACE-YEAR Eva Petitdemange" # PLACEHOLDER
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 900px
+
+bibliography: references.bib
+# csl: apa.csl # PLACEHOLDER, commented out: uncomment only once you've added a real .csl file, otherwise the build fails

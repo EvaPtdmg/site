@@ -1,0 +1,10 @@
+---
+title: "Publications"
+nocite: |
+  @*
+---
+
+This list is generated automatically from `references.bib`. To add a publication, add an entry to that file and re-render the site, you don't edit this page directly.
+
+::: {#refs}
+:::
