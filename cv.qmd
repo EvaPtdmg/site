@@ -5,7 +5,7 @@ title: "CV"
 ## Current position
 
 **Maître Assistant** (Associate Professor), IMT Mines Albi, Centre Génie Industriel\
-Enseignante-chercheuse, axe Gestion des Opérations Logistiques (GOL)\
+Enseignante-chercheuse, axe Territoire (TRACE) et Gestion des Opérations Logistiques (GOL)\
 2021 – Present
 
 <!-- PLACEHOLDER / À VALIDER: this CV's most recent publications (2023-2026) are heavily Physical Internet / rural mobility, but this document doesn't mention that shift. Confirm your title is still accurate and current before publishing. -->
@@ -41,24 +41,16 @@ IMT Mines Albi\
 Partner institutions: IMT Mines Albi, CHU de Nantes, SAMU 44, SAMU 85, SAMU 53, SAMU 72\
 Keywords: emergency call centers, collaboration, modeling, discrete event simulation, process mining, data mining, model transformation, hospital systems
 
-## Selected projects (recent)
 
-<!-- From context shared in conversation, not this CV document; confirm before publishing -->
 
-- ECOTRAIN (ADEME / France 2030)
-- CAPIBARA (ANR JCJC)
-- FORCE / Airbus intralogistics
-- PATH (15-Minute City)
 
 ## Networks and affiliations
 
-- IPIC, EULiST, ANR, ADEME, ALICE ETP <!-- from prior context, confirm -->
-- SAGIP (Société d'Automatique de Génie Industriel et de Productique)
+<!-- - IPIC, EULiST, ANR, ADEME, ALICE ETP <!-- from prior context, confirm -->
+<!--- SAGIP (Société d'Automatique de Génie Industriel et de Productique)
 - GISEH (Gestion et Ingénierie des Systèmes Hospitaliers)
 
-## HDR
 
-Targeted for 2027. <!-- À VALIDER -->
 
 ## Teaching
 

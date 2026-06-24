@@ -38,11 +38,7 @@ quarto publish gh-pages
 ```
 This builds the site and pushes it to a `gh-pages` branch for you. Quarto will ask you to confirm a GitHub login the first time.
 
-**Any other host (including an IMT Mines Albi server)**:
-```
-quarto render
-```
-This builds a static `_site/` folder. Upload the contents of `_site/` to your host via whatever method they require (FTP, SCP, a web upload form). No further build step needed on the server side, since it's plain HTML/CSS at that point.
+In short, for a typical update: edit → preview → quarto publish gh-pages → optionally git add . && git commit -m "..." && git push to keep main in sync.
 
 ## Adding a new publication later
 

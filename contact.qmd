@@ -8,6 +8,6 @@ title: "Contact"
 - IdHAL: [eva-petitdemange](https://cv.hal.science/eva-petitdemange)
 - IdRef: [25432813X](https://www.idref.fr/25432813X)
 - ResearcherID: [BBD-4668-2021](http://www.researcherid.com/rid/BBD-4668-2021)
-- LinkedIn: [REPLACE](https://www.linkedin.com/REPLACE) <!-- PLACEHOLDER, not on your HAL page, remove this line if not wanted -->
-- CGI / IMT Mines Albi: [REPLACE](https://www.imt-mines-albi.fr/REPLACE) <!-- PLACEHOLDER -->
+- LinkedIn: (https://www.linkedin.com/in/eva-petitdemange/) <!-- PLACEHOLDER, not on your HAL page, remove this line if not wanted -->
+
 
